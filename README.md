@@ -1,9 +1,9 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-##
+```
 Name: Infancia Felcy P
 Reg No:212223040067
 Date:12/08/2024
-
+```
  
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
