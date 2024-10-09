@@ -1,8 +1,8 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
 ```
-Name: Infancia Felcy P
-Reg No:212223040067
-Date:12/08/2024
+Name: jeecikasrinsa
+Reg No:212223100015
+Date:09/10/2024
 ```
  
 
